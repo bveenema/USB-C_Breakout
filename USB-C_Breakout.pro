@@ -1,4 +1,4 @@
-update=4/3/2018 3:47:24 PM
+update=4/3/2018 7:40:39 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=lib/usb-type-c-kicad-lib-master
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/usb-type-c-kicad-lib-master/usb-type-c
+[general]
+version=1

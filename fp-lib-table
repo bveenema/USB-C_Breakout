@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MUSBR-M5C1-X0)(type KiCad)(uri "$(KIPRJMOD)/MUSBR-M5C1-X0.pretty")(options "")(descr ""))
+  (lib (name 640455-2)(type KiCad)(uri "$(KIPRJMOD)/640455-2.pretty")(options "")(descr ""))
+)
