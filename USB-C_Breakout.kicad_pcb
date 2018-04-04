@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.6)
+(kicad_pcb (version 4) (host pcbnew 4.0.7)
 
   (general
     (links 20)
@@ -63,9 +63,9 @@
     (pad_drill 0.5334)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF7F)
+    (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x31038_80000001)
+      (layerselection 0x310f8_80000001)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
